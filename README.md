@@ -1,14 +1,20 @@
 # Deep-Learning-Neural-Networks
 
+![Hero Image](assets/hero_image.png)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-2.x-red.svg)](https://keras.io/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.x-purple.svg)](https://pytorch.org/)
+
 ## English
 
 ### 🚀 Overview
-Advanced deep learning neural networks implementation with modern architectures
-
-This project demonstrates professional Python development skills with modern best practices, clean code architecture, and industry-standard implementations.
+This project showcases advanced implementations of deep learning neural networks with modern architectures. It demonstrates professional Python development skills, adhering to modern best practices, clean code architecture, and industry-standard implementations.
 
 ### 🛠️ Technology Stack
-Python, TensorFlow, Keras, PyTorch, neural networks, deep learning
+Python, TensorFlow, Keras, PyTorch, neural networks, deep learning.
 
 ### ⚡ Features
 - Professional code architecture
@@ -75,12 +81,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Português
 
 ### 🚀 Visão Geral
-Advanced deep learning neural networks implementation with modern architectures
-
-Este projeto demonstra habilidades profissionais de desenvolvimento em Python com práticas modernas, arquitetura de código limpo e implementações padrão da indústria.
+Este projeto apresenta implementações avançadas de redes neurais de aprendizado profundo com arquiteturas modernas. Ele demonstra habilidades profissionais de desenvolvimento em Python, aderindo às melhores práticas modernas, arquitetura de código limpo e implementações padrão da indústria.
 
 ### 🛠️ Stack Tecnológica
-Python, TensorFlow, Keras, PyTorch, neural networks, deep learning
+Python, TensorFlow, Keras, PyTorch, redes neurais, aprendizado profundo.
 
 ### ⚡ Funcionalidades
 - Arquitetura de código profissional
@@ -133,3 +137,4 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para d
 ---
 
 ⭐ **Se este projeto foi útil para você, considere dar uma estrela!**
+
