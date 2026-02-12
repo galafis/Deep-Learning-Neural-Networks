@@ -1,140 +1,161 @@
-# Deep-Learning-Neural-Networks
+# 🚀 Deep Learning Neural Networks
 
-![Hero Image](assets/hero_image.png)
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-2.x-red.svg)](https://keras.io/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-1.x-purple.svg)](https://pytorch.org/)
+[English](#english) | [Português](#português)
+
+---
 
 ## English
 
-### 🚀 Overview
-This project showcases advanced implementations of deep learning neural networks with modern architectures. It demonstrates professional Python development skills, adhering to modern best practices, clean code architecture, and industry-standard implementations.
+### 🎯 Overview
 
-### 🛠️ Technology Stack
-Python, TensorFlow, Keras, PyTorch, neural networks, deep learning.
+**Deep Learning Neural Networks** — Professional repository showcasing advanced development skills
 
-### ⚡ Features
-- Professional code architecture
-- Modern development practices
-- Comprehensive error handling
-- Performance optimized
-- Well-documented codebase
-- Industry-standard patterns
+Total source lines: **102** across **1** files in **1** language.
 
-### 🏃‍♂️ Quick Start
+### ✨ Key Features
 
+- **Production-Ready Architecture**: Modular, well-documented, and following best practices
+- **Comprehensive Implementation**: Complete solution with all core functionality
+- **Clean Code**: Type-safe, well-tested, and maintainable codebase
+- **Easy Deployment**: Docker support for quick setup and deployment
+
+### 🚀 Quick Start
+
+#### Prerequisites
+- Python 3.12+
+
+
+#### Installation
+
+1. **Clone the repository**
 ```bash
-# Clone the repository
 git clone https://github.com/galafis/Deep-Learning-Neural-Networks.git
-
-# Navigate to project directory
 cd Deep-Learning-Neural-Networks
-
-# Follow language-specific setup instructions below
 ```
 
-### 📦 Installation & Setup
+2. **Create virtual environment**
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+3. **Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+#### Running
 
 ```bash
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the application
 python main.py
 ```
 
-### 🎯 Use Cases
-- Professional development portfolio
-- Learning modern Python practices
-- Code reference and examples
-- Enterprise-grade implementations
 
-### 📊 Project Structure
+
+
+
+### 📁 Project Structure
+
 ```
 Deep-Learning-Neural-Networks/
+├── assets/
 ├── README.md
-├── LICENSE
-├── main.py
-├── requirements.txt
-├── src/
-├── tests/
-└── docs/
+└── main.py
 ```
 
-### 🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
+### 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| Python | 1 files |
 
 ### 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-### 👨‍💻 Author
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### 👤 Author
+
 **Gabriel Demetrios Lafis**
-- Data Scientist & Engineer
-- Systems Developer & Analyst
-- Cybersecurity Specialist
+
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
 
 ---
 
 ## Português
 
-### 🚀 Visão Geral
-Este projeto apresenta implementações avançadas de redes neurais de aprendizado profundo com arquiteturas modernas. Ele demonstra habilidades profissionais de desenvolvimento em Python, aderindo às melhores práticas modernas, arquitetura de código limpo e implementações padrão da indústria.
+### 🎯 Visão Geral
 
-### 🛠️ Stack Tecnológica
-Python, TensorFlow, Keras, PyTorch, redes neurais, aprendizado profundo.
+**Deep Learning Neural Networks** — Professional repository showcasing advanced development skills
 
-### ⚡ Funcionalidades
-- Arquitetura de código profissional
-- Práticas modernas de desenvolvimento
-- Tratamento abrangente de erros
-- Otimizado para performance
-- Base de código bem documentada
-- Padrões da indústria
+Total de linhas de código: **102** em **1** arquivos em **1** linguagem.
 
-### 🏃‍♂️ Início Rápido
+### ✨ Funcionalidades Principais
 
+- **Arquitetura Pronta para Produção**: Modular, bem documentada e seguindo boas práticas
+- **Implementação Completa**: Solução completa com todas as funcionalidades principais
+- **Código Limpo**: Type-safe, bem testado e manutenível
+- **Fácil Implantação**: Suporte Docker para configuração e implantação rápidas
+
+### 🚀 Início Rápido
+
+#### Pré-requisitos
+- Python 3.12+
+
+
+#### Instalação
+
+1. **Clone the repository**
 ```bash
-# Clone o repositório
 git clone https://github.com/galafis/Deep-Learning-Neural-Networks.git
-
-# Navegue para o diretório do projeto
 cd Deep-Learning-Neural-Networks
-
-# Siga as instruções de configuração específicas da linguagem abaixo
 ```
 
-### 📦 Instalação e Configuração
+2. **Create virtual environment**
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+3. **Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+#### Execução
 
 ```bash
-# Instale as dependências
-pip install -r requirements.txt
-
-# Execute a aplicação
 python main.py
 ```
 
-### 🎯 Casos de Uso
-- Portfólio de desenvolvimento profissional
-- Aprendizado de práticas modernas em Python
-- Referência de código e exemplos
-- Implementações de nível empresarial
 
-### 🤝 Contribuindo
-Contribuições são bem-vindas! Sinta-se à vontade para enviar um Pull Request.
+
+
+### 📁 Estrutura do Projeto
+
+```
+Deep-Learning-Neural-Networks/
+├── assets/
+├── README.md
+└── main.py
+```
+
+### 🛠️ Stack Tecnológica
+
+| Tecnologia | Uso |
+|------------|-----|
+| Python | 1 files |
 
 ### 📄 Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
 
-### 👨‍💻 Autor
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+### 👤 Autor
+
 **Gabriel Demetrios Lafis**
-- Cientista e Engenheiro de Dados
-- Desenvolvedor e Analista de Sistemas
-- Especialista em Segurança Cibernética
 
----
-
-⭐ **Se este projeto foi útil para você, considere dar uma estrela!**
-
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
